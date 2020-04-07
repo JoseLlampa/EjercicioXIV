@@ -14,6 +14,8 @@ namespace EjercicioXIV
             int multiplo;
             bool error = false;
 
+            Console.WriteLine("Ingrese un numero y se mostrara su tabla de multiplicar");
+
             do
             {
                 do
